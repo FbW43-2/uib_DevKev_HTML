@@ -1,0 +1,14 @@
+.outer-square {
+  width: 400px;
+  height: 400px;
+  background-color: greenyellow;
+  border: 10px;
+  border-radius: 50%;
+  border-style: inset;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: blue;
+}
